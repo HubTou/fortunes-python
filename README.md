@@ -19,8 +19,7 @@ python-quotes|[The Mind at Work: Guido van Rossum on how Python makes thinking i
 [strfile(8)](https://www.freebsd.org/cgi/man.cgi?query=strfile)
 
 ## HISTORY
-These data files are intended to be used with the [PNU project](https://github.com/HubTou/PNU)'s re-implementation of the [fortune](https://github.com/HubTou/fortune) comman
-d.
+These data files are intended to be used with the [PNU project](https://github.com/HubTou/PNU)'s re-implementation of the [fortune](https://github.com/HubTou/fortune) command.
 
 ## LICENSE
 The original materials were fetched from miscellaneous Internet web sites.
@@ -33,4 +32,3 @@ The [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) interview
 Many people for the fortune files contents, though the following people stand out:
 * [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 * [Tim Peters](https://en.wikipedia.org/wiki/Tim_Peters_(software_engineer))
-
