@@ -93,7 +93,7 @@ It is definitely an area where Python fits almost perfectly.
 That's quite independent from Java, actually.
 		-- Guido van Rossum
 %
-Modern programs must handle Unicode —Python has excellent support for
+Modern programs must handle Unicode -Python has excellent support for
 Unicode, and will keep getting better.
 		-- Guido van Rossum
 %
